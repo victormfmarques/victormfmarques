@@ -24,8 +24,8 @@
 
 <div align="center">
   <a href="https://github.com/victormfmarques">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=victormfmarques&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=victormfmarques&layout=compact&langs_count=7&theme=radical"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=victormfmarques&locale=pt-br&show_icons=true&theme=gotham&include_all_commits=true&count_private=true"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=victormfmarques&locale=pt-br&layout=compact&langs_count=7&theme=gotham"/>
   </a>
 </div>
 
